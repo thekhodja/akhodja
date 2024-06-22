@@ -43,8 +43,8 @@ profiles:
     url: https://www.linkedin.com/in/abdelhamidkhodja/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=Gc3GPoIAAAAJ&hl=en
-#  - icon: academicons/orcid
-#    url: https://orcid.org/
+  - icon: brands/youtube
+    url: https://www.youtube.com/@abdelhamidkhodja/
 
 interests:
   - Artificial Intelligence
