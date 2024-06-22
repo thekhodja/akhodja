@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Abdelhamid Khodja
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Abdelhamid
+last_name: Khodja
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,31 +20,31 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: American University of Sharjah
+    url: https://aus.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:abdelhamidkhodja02@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/biokhodja
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/abdelhamidkhodja/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=Gc3GPoIAAAAJ&hl=en
+#  - icon: academicons/orcid
+#    url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hey, my name is Abdelhamid Khodja! But most people just call me Bioman. I’m a recent Biology graduate from the American University of Sharjah. My research interests include computational biology and molecular dynamics (MD) simulations. Broadly, I am interested in computational drug discovery. During my time at AUS, I worked on developing and synthesizing novel antibacterial nanoparticles to create self-disinfecting fabrics.
