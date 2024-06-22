@@ -47,9 +47,8 @@ profiles:
     url: https://www.youtube.com/@abdelhamidkhodja/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Drug Discovery
+  - Computational Structural Biology
 
 education:
   - area: PhD Artificial Intelligence
@@ -72,10 +71,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Biology
+    institution: American University of Sharjah
+    date_start: 2020-09-01
+    date_end: 2024-06-08
     summary: |
       GPA: 3.4/4.0
       
