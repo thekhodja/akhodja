@@ -32,7 +32,7 @@ publication_short: ""
 
 # links:
 # - name: ""
-#   url: ""
+   url: https://doi.org/10.1007/s11274-023-03760-8
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
