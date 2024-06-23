@@ -25,7 +25,7 @@ publication_types: ["article-journal"]
 publication: "*ACS Regional MEA Conference*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Self-disinfecting materials have become increasingly important in the wake of the COVID-19pandemic. They are used in personal protective equipment and can be applied to varioussurfaces such as in academic environments and clinical settings to eliminate pathogens.Carbon nanodots (CDs) are a promising solution because of their low toxicity towardsmammalian cells and their antimicrobial properties. In our study, cellulose-based fibers suchas cotton and paper were modified with various CDs to enhance their antibacterial properties.CDs derived from naturally occurring antibacterial compounds like curcumin and piperinewere synthesized and functionalized with phenylboronic acid (PBA). These functionalized CDscharacterized using Fourier-transform infrared spectroscopy (FTIR), thermogravimetricanalysis (TGA), UV-VIS spectroscopy, fluorescence spectrophotometry, zeta-potentialanalysis, and scanning electron microscopy (SEM) with energy dispersive X-Ray analysis (EDX).The antibacterial efficacy of the synthesized CDs solutions was evaluated against grampositive (Staphylococcus epidermidis) and gram negative (Escherichia coli) bacterial strains inthe presence and absence of UV radiation. Results showed that curcumin-phenyl boronicbased CDs (PBA-CCMCD) and piperine based-CDs (PBA-PPCD) have notable antibacterialefficacy both in solution and when grafted onto fibers against the bacterial strains. In theabsence of light, the IC50 of PBA-PPCD solution was 0.4 mg/mL for E. coli and 0.5 mg/mL forS. epidermidis, while for PBA-CCMCD solution it was 1 mg/mL for both strains. Under UV light(365 nm), the IC50 of PBA-PPCD solution was 0.5 mg/mL for both strains while for PBA-CCMCDsolution it was 0.7 mg/mL for E. coli and 1 mg/mL for S. epidermidis. Subsequently, the CDswere attached onto cellulose fibers and the antibacterial activity of the newly modified fiberswere also evaluated; filter paper discs were used as a model for cellulose fibers When fiberswere treated with CDs (20 μL, 50 mg/mL), the growth of S. epidermidis or E. coli (20 μL; 5 x105cfu/mL) was inhibited after being exposed to UV light for two hours. These findings suggestthat carbon dots can be an effective way to introduce antibacterial properties into cellulose-based fabrics.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -48,17 +48,17 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+# image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+# projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -68,12 +68,3 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
