@@ -1,6 +1,5 @@
-.publication-title a {
-    pointer-events: none;
-    text-decoration: none;
-    color: inherit;
-  }
-  
+a.underline {
+  pointer-events: none;
+  text-decoration: none;
+  color: inherit;
+}
