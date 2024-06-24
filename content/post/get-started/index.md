@@ -1,21 +1,20 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: To new beginnings and I graduated!
+summary: This is my first post on my site as I try and figure things out using this new format.
+date: 2024-06-24
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: [**AUS Media**](https://aus.edu)'
 
 authors:
   - admin
-  - Ted
 
-tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
+# tags:
+#  - Academic
+#  - Hugo Blox
+#  - Markdown
 ---
 
 Welcome 👋
