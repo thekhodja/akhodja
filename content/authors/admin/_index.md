@@ -72,7 +72,7 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Biology
+  - area: BSc Biology (Magna Cum Laude)
     institution: American University of Sharjah
     date_start: 2020-09-01
     date_end: 2024-06-08
