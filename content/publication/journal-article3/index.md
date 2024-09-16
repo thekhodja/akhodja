@@ -25,7 +25,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Discover Applied Sciences, 6*(490)"
-publication_short: "Discov Appl Sci"
+publication_short: ""
 
 abstract: Microbial infections are a global health challenge often treated with antibiotics, but their overuse can lead to antibiotic resistance. To address this, there is a need for more efficient personal protective equipment (PPE) with novel antimicrobial techniques. One such technique involves using carbon dots (CDs) to create self-disinfecting fabrics. This study focused on synthesizing phenylboronic-acid-functionalized piperine-based carbon dots (PBA-PPCDs) and boronic acid carbon dots (BACDs) as potential antimicrobial agents. The materials were successfully synthesized using a hydrothermal method and characterized using various techniques to confirm the size, charge, fluorescence properties, and inner morphology of the CDs. The CDs showed bactericidal activity against gram-positive and gram-negative bacteria, with potent inhibition in growth especially in the presence of simulated sunlight. The antibacterial properties of the CDs were tested on cellulose discs, demonstrating strong adherence and significant inhibition of bacterial cells. The cytotoxicity studies showed that these CDs, at concentrations up to 0.1 mg/mL, and the CD-modified fibers are benign to mammalian cells, emphasizing their safety for human use. Overall, the study concluded that PBA-PPCDs and BACDs are promising candidates for modifying fibers and inducing antimicrobial activity in fabrics made of cellulose fibers.
 

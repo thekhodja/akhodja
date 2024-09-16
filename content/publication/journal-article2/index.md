@@ -23,7 +23,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*World Journal of Microbiology and Biotechnology, 39*(330)"
-publication_short: "World J Microbiol Biotechnol"
+publication_short: ""
 
 abstract: With the rise of antibiotic resistance globally, coupled with evolving and emerging infectious diseases, there is an urgent need for the development of novel antimicrobials. Deep eutectic solvents (DES) are a new generation of eutectic mixtures that depict promising attributes with several biological implications. DES exhibit unique properties such as low toxicity, biodegradability, and high thermal stability. Herein, the antimicrobial properties of DES and their mechanisms of action against a range of microorganisms, including bacteria, amoebae, fungi, viruses, and anti-cancer properties are reviewed. Overall, DES represent a promising class of novel antimicrobial agents as well as possessing other important biological attributes, however, future studies on DES are needed to investigate their underlying antimicrobial mechanism, as well as their in vivo effects, for use in the clinic and public at large.
 
