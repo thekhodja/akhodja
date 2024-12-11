@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/Khodja CV_Website_Sept.pdf
+        url: uploads/Khodja CV_Website (Dec 11th 2024).pdf
     design:
       css_class: dark
       background:
